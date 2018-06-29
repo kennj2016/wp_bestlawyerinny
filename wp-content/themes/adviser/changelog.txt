@@ -1,0 +1,81 @@
+Version 2.8
+    * Plugins updated.
+    * Compatibility with PHP7.
+    * The theme is now compatible with version WooCommerce 3.0 and higher.
+
+
+Version 2.7
+    * Emailer fixed (send email to subscribers)
+    + Compatibility with VC latest versions is improved (vc theme setup updated)
+
+Version 2.6
+    + Google Map update
+
+Version 2.5
+	* Revslider plugins updated
+    * Theme compatibility with new version of RevSlider is improved.
+    * Visual Composer is updated
+
+Version 2.4
+    * WordPress 4.5 ready
+    * All plugins updated
+
+Version 2.3
+   	- Fixed: Layout of shortcode [trx_gap] is fixed.
+   	* Visual Composer is updated to its latest version
+
+Version 2.2
+	- Share buttons fixed
+	- Visual Composer plugin is updated
+
+Version 2.1
+	- Background predefined pattern - minor fixes
+
+Version 2.0
+	- User menu area fixed
+
+Version 1.9
+	* Shortcodes - minor fixes
+	* Theme customizer - minor fixes
+
+Version 1.8.1 – Update
+	- Visual Composer plugin is updated to 4.7.4
+
+Version 1.8 – Update
+	- Compatibility with Visual Composer 4.7 (Frontend Editor) is improved.
+
+Version 1.7 – Update
+	- The bug with the change of theme settings is fixed (at which all theme settings used to reset
+	- Visual Composer is updated to 4.7.2
+	- WP Instagram Widget plugin is updated to 1.8
+
+Version 1.6.1 – Update
+	- Change version in style.css file of the theme
+
+Version 1.6 – Update
+	- demo data update for compatibility with Visual Composer
+	- Visual Composer is updated to latest version
+	- few minor fixes
+
+Version 1.5 – Update
+	- demo data import update
+	- few fixes for compatibility with Visual Composer
+	- WP Instagram Widget plugin is updated to 4.6
+
+Version 1.4 – Update
+	- Visual Composer is updated to 4.7
+
+Version 1.3 – Update
+	- Bug causing the change within the structure of header's elements is fixed.
+	- few minor fixes
+
+Version 1.2 – Update
+	- a bug when adding the shortcode of color selection in the post is fixed
+	- few minor fixes
+
+Version 1.1 – Update
+	-  Fullscreen version of some pages is changed into boxed
+	-  Calculator's functioning in Firefox is fixed
+	-  Visual Composer is updated to 4.6.1
+
+12.07.2015 Version 1.0 – Release

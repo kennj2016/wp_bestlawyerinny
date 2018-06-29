@@ -1,0 +1,19 @@
+@charset 'utf-8';
+/*
+ Theme Name:   Adviser-Child
+ Theme URI:    http://adviser.axiomthemes.com/
+ Description:  Adviser - Multipurpose and Multiskin Responsive Wordpress theme
+ Author:       AxiomThemes
+ Author URI:   http://axiomthemes.com
+ Template:     adviser
+ Version:      1.8.1
+ Tags:         light, responsive-layout, flexible-header, accessibility-ready, custom-background, custom-colors, custom-header, custom-menu, featured-image-header, featured-images, boxed-width-template, microformats, post-formats, theme-options, threaded-comments, translation-ready
+ Text Domain:  axiomthemes
+*/
+
+
+@import url("../adviser/style.css");
+
+
+/* =Theme customization starts here
+-------------------------------------------------------------- */
